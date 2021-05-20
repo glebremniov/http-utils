@@ -1,9 +1,12 @@
 {
-  "name": "http-utils",
+  "name": "@odinrossy/http-utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/glebremniov/http-utils.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glebremniov/http-utils.git"
+  },
   "type": "module",
   "keywords": [
     "http",
@@ -16,5 +19,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gleb Remniov <remniov.work@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glebremniov/http-utils/issues"
+  },
+  "homepage": "https://github.com/glebremniov/http-utils#readme"
 }
