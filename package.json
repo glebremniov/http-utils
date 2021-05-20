@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "repository": "https://github.com/glebremniov/http-utils.git",
+  "type": "module",
   "keywords": [
     "http",
     "constants",
