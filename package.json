@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/glebremniov/http-utils.git",
+  "keywords": [
+    "http",
+    "constants",
+    "utils",
+    "http-constants",
+    "headers"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
